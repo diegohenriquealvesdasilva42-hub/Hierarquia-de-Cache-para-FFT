@@ -117,6 +117,6 @@ Os resultados mostram que a configuração da hierarquia de memória tem impacto
 - Diego Henrique Alves da Silva
 - Alexandre Versiani Raposo
 - Fernando Augusto Barbosa
-  Flávio Guto
+- Flávio Guto Teixeira Bezerra
 
 
