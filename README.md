@@ -93,17 +93,7 @@ cd <nome-do-projeto>
 Exemplo de execução:
 
 ```bash
-./run-sniper -p fft -n 1 -c gainestown
-```
-
-### 3. Aplicar configurações específicas
-
-Utilize os arquivos dentro da pasta `configs/` para testar diferentes combinações de cache.
-
-Exemplo:
-
-```bash
-./run-sniper -p fft -n 1 -c configs/l1_32kb_l2_1024kb.cfg
+bash SCRIPT.sh
 ```
 
 ---
