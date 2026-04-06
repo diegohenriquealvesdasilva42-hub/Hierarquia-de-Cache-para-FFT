@@ -74,7 +74,6 @@ As 512 simulações cobrem todas as combinações abaixo:
 .
 ├── scripts/          # scripts de execução e coleta
 ├── results/          # resultados das 512 simulações
-├── figures/          # gráficos gerados
 └── README.md
 ```
 
