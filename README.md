@@ -120,3 +120,7 @@ Os resultados mostram que a configuração da hierarquia de memória tem impacto
 - Flávio Guto Teixeira Bezerra
 
 
+## Note
+The formatting and writing of this README were improved with AI assistance. All technical content and experimental results are the author's responsibility.
+
+
